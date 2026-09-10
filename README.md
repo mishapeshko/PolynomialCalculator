@@ -1,6 +1,6 @@
 Polynomial Calculator (C)
 
-A lightweight Command Line Interface (CLI) application written in C for parsing and multiplying polynomials. The project focuses on manual memory management, pointer arithmetic, and custom string parsing without relying on heavy external libraries.
+A lightweight Command Line Interface (CLI) application written in C for parsing, adding and multiplying polynomials. The project focuses on manual memory management, pointer arithmetic, and custom string parsing without relying on heavy external libraries.
 
 Key Features
 Text Parser: Reads and tokenizes raw user input, correctly interpreting mathematical signs, coefficients, and exponents.
